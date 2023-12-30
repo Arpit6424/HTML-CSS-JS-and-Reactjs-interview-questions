@@ -1,0 +1,4 @@
+1. What is Hoisting 
+2. difference let, var, const and how each behaves during Hoisting
+3. Difference template litral vs noraml string
+4. 
